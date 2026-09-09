@@ -1,0 +1,28 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is namaste-react by PraveenKumar",
+  "homepage": "https://github.com/PraveenKumarPadala/namaste-react#readme",
+  "bugs": {
+    "url": "https://github.com/PraveenKumarPadala/namaste-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PraveenKumarPadala/namaste-react.git"
+  },
+  "license": "ISC",
+  "author": "Praveen Kumar",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  }
+}
